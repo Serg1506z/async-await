@@ -14,8 +14,8 @@ export function health ({name, health} = {}){
 }
 
 
-// console.log(health({name: 'Маг', health: 90}));
-// console.log(health({name: 'Маг', health: 45}));
-// console.log(health({name: 'Маг', health: 14}));
+console.log(health({name: 'Маг', health: 90}));
+console.log(health({name: 'Маг', health: 45}));
+console.log(health({name: 'Маг', health: 14}));
 
 
