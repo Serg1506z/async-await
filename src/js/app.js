@@ -1,4 +1,4 @@
-import GameSavingLoader from "./gameSaving";
+import GameSavingLoader from "./gameSavingLoader";
 
 (async () => {
   try{
