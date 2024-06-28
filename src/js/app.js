@@ -4,7 +4,7 @@ import GameSavingLoader from "./gameSavingLoader";
   try{
     const data = await GameSavingLoader.load()
     console.log(data);  
-  }catch{
+  }catch(err){
     console.log(err);
   }
 })()
